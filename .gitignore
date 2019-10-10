@@ -1,0 +1,6 @@
+# packages
+node_modules
+# IDE
+.idea
+# build system
+lib
